@@ -25,6 +25,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ProxyPattern", "ProxyPatter
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BridgePattern", "BridgePattern\BridgePattern.vcxproj", "{8A8FC9E4-700D-4607-AFBE-90F633FB12C6}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TemplatePattern", "TemplatePattern\TemplatePattern.vcxproj", "{BD0E097B-A203-429D-ADEC-63A929E8A54A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -121,6 +123,14 @@ Global
 		{8A8FC9E4-700D-4607-AFBE-90F633FB12C6}.Release|x64.Build.0 = Release|x64
 		{8A8FC9E4-700D-4607-AFBE-90F633FB12C6}.Release|x86.ActiveCfg = Release|Win32
 		{8A8FC9E4-700D-4607-AFBE-90F633FB12C6}.Release|x86.Build.0 = Release|Win32
+		{BD0E097B-A203-429D-ADEC-63A929E8A54A}.Debug|x64.ActiveCfg = Debug|x64
+		{BD0E097B-A203-429D-ADEC-63A929E8A54A}.Debug|x64.Build.0 = Debug|x64
+		{BD0E097B-A203-429D-ADEC-63A929E8A54A}.Debug|x86.ActiveCfg = Debug|Win32
+		{BD0E097B-A203-429D-ADEC-63A929E8A54A}.Debug|x86.Build.0 = Debug|Win32
+		{BD0E097B-A203-429D-ADEC-63A929E8A54A}.Release|x64.ActiveCfg = Release|x64
+		{BD0E097B-A203-429D-ADEC-63A929E8A54A}.Release|x64.Build.0 = Release|x64
+		{BD0E097B-A203-429D-ADEC-63A929E8A54A}.Release|x86.ActiveCfg = Release|Win32
+		{BD0E097B-A203-429D-ADEC-63A929E8A54A}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
