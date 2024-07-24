@@ -29,7 +29,7 @@ public:
 			off();
 		}
 		else {
-			printf("Light is dimmed to %d %\n" , level);
+			printf("Light is dimmed to %d \n" , level);
 		}
 	}
 

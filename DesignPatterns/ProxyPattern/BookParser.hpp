@@ -12,6 +12,6 @@ public:
 	}
 	int getNoOfPages() override
 	{
-		return bookName.length() * 5;
+		return (int)bookName.length() * 5;
 	}
 };
